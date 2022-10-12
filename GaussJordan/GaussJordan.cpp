@@ -163,7 +163,7 @@ void ReordenarF(matriz &miMatriz)
                     array<float, 4> matriz2 = miMatriz[i];
                     miMatriz[i] = miMatriz[j];
                     miMatriz[j] = matriz2;
-                };
+                }
             }
         }
     }
