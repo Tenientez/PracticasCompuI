@@ -1,3 +1,7 @@
+//Oscar Teniente
+//11 Spetiembre 2022
+//tenienteornelas@gmail.com
+
 #include <iostream>
 #include <array>
 
