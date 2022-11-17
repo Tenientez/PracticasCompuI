@@ -6,7 +6,7 @@
 #include <iostream>
 #include <array>
 using namespace std;
-
+/*Comentar cualquier cosa*/
 
 class Punto2D {
 public:
