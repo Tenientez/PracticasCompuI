@@ -27,7 +27,7 @@ void Punto2D::SetPosicion(float x, float y) {
 void Punto2D::Trasladar(float temp1, float temp2) {
     Pi[0] = Pi[0] + temp1;
     Pi[1] = Pi[1] + temp2;
-
+/*No se que comentar*/
 }
 
 void Punto2D::Escalar(float temp1, float temp2) {
