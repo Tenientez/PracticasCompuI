@@ -5,7 +5,6 @@
 #define _USE_MATH_DEFINES
 #include <array>
 #include <iostream>
-#include <cmath>
 #include <math.h>
 #include "Punto.h"
 
