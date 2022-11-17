@@ -75,7 +75,7 @@ void PedirValores(float& x, float& y)
     cout << "y: ";
     cin >> y;
 }
-
+//No se si comentar este pero bueno
 // Solicita una operación válida al usuario
 char PedirOperacion()
 {
